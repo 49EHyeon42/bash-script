@@ -60,7 +60,7 @@ ssh 접속을 통해 슬랙 메시지를 확인할 수 있습니다.
 
    # after
    ...
-   banaction = iptables-multiport slack_norification
+   banaction = iptables-multiport slack_notification
    ...
    ```
 
